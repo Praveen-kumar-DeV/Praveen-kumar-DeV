@@ -1,9 +1,3 @@
-# Praveen-kumar
-Full-Stack Developer 🚀
-Passionate about web development 💻 \
-Lifelong learner 📚
-
-
 <h1 align="center">Hi 👋, I'm Praveen kumar</h1>
 <h3 align="center">A passionate MERN STACK developer from India</h3>
 
